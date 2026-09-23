@@ -1,2 +1,5 @@
 # NBA-Home-Court-Advantage
-SQL and Power BI analysis of NBA home-court advantage from 2017-18 to 2022-23.
+
+# Project Overview 
+
+An analysis of NBA regular season games from 2017-18 to 2022-23 to examine how home-court advantage has changed over time. This project uses SQL to clean and analyze game data and Power BI to visualize home win percentage, point differential, and offensive efficiency.  
