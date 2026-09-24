@@ -45,6 +45,7 @@ Key metrics include:
 - Home win percentage was 55.12% before the 2019-20 season shutdown and 55.68% afterward, a difference of 0.56%.
 
 Context: The 2019-20 and 2020-21 seasons were affected by the COVID-19 pandemic. The 2019-20 season was interrupted in March 2020, with play later resuming in a controlled, isolated environment referred to as the “NBA Bubble”, so it did not represent a normal home court setting. The 2020-21 season was also working under pandemic-related restrictions, including unusual scheduling and reduced arena attendance. This context is important when interpreting the decline in the home statistical advantages during this period. 
+
 ![NBA Home Court Advantage Dashboard](NBADashboard.png)
 
 
