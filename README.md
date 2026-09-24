@@ -30,3 +30,10 @@ Key metrics include:
    - Check for missing and invalid values
    - Calculate home win percentage, average point differential, possessions, and points per      possession
    - Compare home court advantage before and after the 2019-20 shutdown
+  
+2. Power BI dashboard presents:
+   - KPI cards for overall, lowest, and highest home win percentage
+   - Home win percentage trends by season
+   - Average home point differential by season
+   - Points per possession trends
+   - Home win percentage before and after the season shutdown 
