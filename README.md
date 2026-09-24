@@ -49,4 +49,7 @@ Context: The 2019-20 and 2020-21 seasons were affected by the COVID-19 pandemic.
 ## Project Structure 
 - `SQL/` : SQL queries used for data cleaning, calculations, and analysis
 - `Power BI/` : Power BI dashboard and visualization files
-- `README.md` : Project documentation and findings 
+- `README.md` : Project documentation and findings
+
+## Conclusion
+The analysis shows that NBA home court advantage varied across the six seasons studied. Home win percentage, point differential, and the home team's offensive efficiency advantage all declined around the 2020-21 season before recovering in 2022-23. The results demonstrate how SQL and Power BI can be used together to analyze and communicate sports data. 
