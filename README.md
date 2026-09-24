@@ -39,7 +39,7 @@ Key metrics include:
    - Home win percentage before and after the season shutdown
   
 ## Key Findings 
-- Home win percentage peaked at 59.27% in 2018-19 and fell to 54.35% in 2020-21 before recovering to 58.05 in 2022-23.
+- Home win percentage peaked at 59.27% in 2018-19 and fell to 54.35% in 2020-21 before recovering to 58.05% in 2022-23.
 - Average home point differential followed a similar pattern, where it peaked at 2.72 in 2018-19 to 0.94 in 2020-21 before recovering to 2.50 in 2022-23.
 - Similarly to win percentage and point differential, PPP peaked at 0.026 in 2018-19 and fell to 0.009 in 2020-21 before rising to 0.024 in 2022-23.
 - Home win percentage was 55.12% before the 2019-20 season shutdown and 55.68% afterward, a difference of 0.56%.
@@ -47,6 +47,8 @@ Key metrics include:
 Context: The 2019-20 and 2020-21 seasons were affected by the COVID-19 pandemic. The 2019-20 season was interrupted in March 2020, with play later resuming in a controlled, isolated environment referred to as the “NBA Bubble”, so it did not represent a normal home court setting. The 2020-21 season was also working under pandemic-related restrictions, including unusual scheduling and reduced arena attendance. This context is important when interpreting the decline in the home statistical advantages during this period. 
 
 ![NBA Home Court Advantage Dashboard](NBADashboard.png)
+
+[Download the Power BI dashboard](Power%20BI/NBAProject.pbix)
 
 
 ## Project Structure 
