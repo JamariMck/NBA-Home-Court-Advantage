@@ -14,3 +14,12 @@ An analysis of NBA regular season games from 2017-18 to 2022-23 to examine how h
 - Compare home and away offensive efficiency using estimated points per possession
 - Examine home court advantage before and after the shutdown during the 2019-20 season
 - Build an interactive dashboard to communicate findings 
+
+## Data & Analysis 
+The analysis covers NBA regular season games from 2017-18 through 2022-23. 
+
+Key metrics include:
+- Home win percentage
+- Average difference of point differential
+- Home and away points per possession
+- Home win percentage before and after the 2019-20 shutdown
