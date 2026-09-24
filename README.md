@@ -11,7 +11,7 @@ An analysis of NBA regular season games from 2017-18 to 2022-23 to examine how h
 ## Project Objectives
 - Measure home win percentage across NBA seasons
 - Analyze differences in home-team point differential
-- Compare home and away offensive efficiency using estimated points per possession
+- Compare home and away offensive efficiency using estimated points per possession (PPP)
 - Examine home court advantage before and after the shutdown during the 2019-20 season
 - Build an interactive dashboard to communicate findings 
 
@@ -36,4 +36,11 @@ Key metrics include:
    - Home win percentage trends by season
    - Average home point differential by season
    - Points per possession trends
-   - Home win percentage before and after the season shutdown 
+   - Home win percentage before and after the season shutdown
+  
+## Key Findings 
+- Home win percentage peaked at 59.27% in 2018-19 and fell to 54.35% in 2020-21 before recovering to 58.05 in 2022-23.
+- Average home point differential followed a similar pattern, where it peaked at 2.72 in 2018-19 to 0.94 in 2020-21 before recovering to 2.50 in 2022-23.
+- Similarly to win percentage and point differential, PPP peaked at 0.026 in 2018-19 and fell to 0.009 in 2020-21 before rising to 0.024 in 2022-23.
+- Home win percentage was 55.12% before the 2019-20 season shutdown and 55.68% afterward, a difference of 0.56%. 
+
