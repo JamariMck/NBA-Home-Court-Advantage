@@ -23,3 +23,9 @@ Key metrics include:
 - Average difference of point differential
 - Home and away points per possession
 - Home win percentage before and after the 2019-20 shutdown
+
+## Methodology 
+1. SQL was used to:
+   - Clean and prepare game data
+   - Check for missing and invalid values
+   - Calculate home win percentage, average point differential, possessions, and points per      possession 
