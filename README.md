@@ -46,3 +46,7 @@ Key metrics include:
 
 Context: The 2019-20 and 2020-21 seasons were affected by the COVID-19 pandemic. The 2019-20 season was interrupted in March 2020, with play later resuming in a controlled, isolated environment referred to as the “NBA Bubble”, so it did not represent a normal home court setting. The 2020-21 season was also working under pandemic-related restrictions, including unusual scheduling and reduced arena attendance. This context is important when interpreting the decline in the home statistical advantages during this period. 
 
+## Project Structure 
+- `SQL/` : SQL queries used for data cleaning, calculations, and analysis
+- `Power BI/` : Power BI dashboard and visualization files
+- `README.md` : Project documentation and findings 
