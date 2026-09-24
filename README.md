@@ -28,4 +28,5 @@ Key metrics include:
 1. SQL was used to:
    - Clean and prepare game data
    - Check for missing and invalid values
-   - Calculate home win percentage, average point differential, possessions, and points per      possession 
+   - Calculate home win percentage, average point differential, possessions, and points per      possession
+   - Compare home court advantage before and after the 2019-20 shutdown
